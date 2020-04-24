@@ -1,2 +1,2 @@
 # web-restoran
-Membuat web restoran
+Membuat web restoran sederhana
